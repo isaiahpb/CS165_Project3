@@ -1,0 +1,5 @@
+rm command-script
+echo "add 1 int best_COD:BO2_kill_streak 39" >> command-script
+echo "login 1" >> command-script
+echo "20" >> command-script
+./cs165-p3 command-script output.txt

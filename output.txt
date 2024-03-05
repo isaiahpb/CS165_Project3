@@ -1,0 +1,2 @@
+ADD for question 2 string HALO_STREAK ThP…irty-Nine : result 0
+CHANGE for question 2 hacked! 39 : result 7

